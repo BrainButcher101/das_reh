@@ -26,6 +26,8 @@ The Nexus will be organized and governed by the appointed Cyber CTOs in close al
 ## Requests
 All cyber employees can send their requests to Nexus by opening an Issue.
 
+An initiative / issue becomes live once a pull request from a branch into master happened. 
+
 Cyber employees are free to organize their response as they see fit. In the bi-weekly CISO meeting we will conduct a breif review 
 and create awareness in the teams if needed.
 
